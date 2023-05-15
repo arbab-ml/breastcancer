@@ -1,4 +1,4 @@
-# breastcancer
+# Breast Cancer detection with machine learning
 
 This is the readme file for the project. It contains the description of the project and the instructions on how to run the code.
 We have implemented the following algorithms:
